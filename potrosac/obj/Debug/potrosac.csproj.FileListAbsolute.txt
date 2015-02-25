@@ -1,0 +1,6 @@
+c:\Users\Dragutin\documents\visual studio 2013\Projects\OSII\potrosac\bin\Debug\potrosac.exe.config
+c:\Users\Dragutin\documents\visual studio 2013\Projects\OSII\potrosac\bin\Debug\potrosac.exe
+c:\Users\Dragutin\documents\visual studio 2013\Projects\OSII\potrosac\bin\Debug\potrosac.pdb
+c:\Users\Dragutin\documents\visual studio 2013\Projects\OSII\potrosac\obj\Debug\potrosac.csprojResolveAssemblyReference.cache
+c:\Users\Dragutin\documents\visual studio 2013\Projects\OSII\potrosac\obj\Debug\potrosac.exe
+c:\Users\Dragutin\documents\visual studio 2013\Projects\OSII\potrosac\obj\Debug\potrosac.pdb

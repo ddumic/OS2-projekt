@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "main", "OSII\main.csproj", "{F35F143C-D83E-4D3F-91C4-3D773B361127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proizvodac", "proizvodac\proizvodac.csproj", "{3BD5F7F6-31C3-4D05-ACA9-2D7392B58BD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "potrosac", "potrosac\potrosac.csproj", "{8D7BC67D-68B7-4BF8-B302-46998612C083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35F143C-D83E-4D3F-91C4-3D773B361127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35F143C-D83E-4D3F-91C4-3D773B361127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35F143C-D83E-4D3F-91C4-3D773B361127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35F143C-D83E-4D3F-91C4-3D773B361127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD5F7F6-31C3-4D05-ACA9-2D7392B58BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD5F7F6-31C3-4D05-ACA9-2D7392B58BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD5F7F6-31C3-4D05-ACA9-2D7392B58BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD5F7F6-31C3-4D05-ACA9-2D7392B58BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7BC67D-68B7-4BF8-B302-46998612C083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7BC67D-68B7-4BF8-B302-46998612C083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7BC67D-68B7-4BF8-B302-46998612C083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7BC67D-68B7-4BF8-B302-46998612C083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

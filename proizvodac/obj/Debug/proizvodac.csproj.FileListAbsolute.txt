@@ -1,0 +1,6 @@
+c:\Users\Dragutin\documents\visual studio 2013\Projects\OSII\proizvodac\bin\Debug\proizvodac.exe.config
+c:\Users\Dragutin\documents\visual studio 2013\Projects\OSII\proizvodac\bin\Debug\proizvodac.exe
+c:\Users\Dragutin\documents\visual studio 2013\Projects\OSII\proizvodac\bin\Debug\proizvodac.pdb
+c:\Users\Dragutin\documents\visual studio 2013\Projects\OSII\proizvodac\obj\Debug\proizvodac.csprojResolveAssemblyReference.cache
+c:\Users\Dragutin\documents\visual studio 2013\Projects\OSII\proizvodac\obj\Debug\proizvodac.exe
+c:\Users\Dragutin\documents\visual studio 2013\Projects\OSII\proizvodac\obj\Debug\proizvodac.pdb

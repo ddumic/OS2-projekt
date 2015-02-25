@@ -1,0 +1,6 @@
+c:\users\dragutin\documents\visual studio 2013\Projects\OSII\OSII\bin\Debug\OSII.exe.config
+c:\users\dragutin\documents\visual studio 2013\Projects\OSII\OSII\bin\Debug\OSII.exe
+c:\users\dragutin\documents\visual studio 2013\Projects\OSII\OSII\bin\Debug\OSII.pdb
+c:\users\dragutin\documents\visual studio 2013\Projects\OSII\OSII\obj\Debug\main.csprojResolveAssemblyReference.cache
+c:\users\dragutin\documents\visual studio 2013\Projects\OSII\OSII\obj\Debug\OSII.exe
+c:\users\dragutin\documents\visual studio 2013\Projects\OSII\OSII\obj\Debug\OSII.pdb
